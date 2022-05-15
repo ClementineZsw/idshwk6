@@ -1,0 +1,644 @@
+date and time: Sun 15 May 2022 02:01:34 AM EDT
+
+os version:Linux VM 5.4.0-54-generic #60-Ubuntu SMP Fri Nov 6 10:37:59 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux
+
+hardware information:
+processor       : 0
+vendor_id       : GenuineIntel
+cpu family      : 6
+model           : 158
+model name      : Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz
+stepping        : 10
+cpu MHz         : 2304.002
+cache size      : 8192 KB
+physical id     : 0
+siblings        : 8
+core id         : 0
+cpu cores       : 8
+apicid          : 0
+initial apicid  : 0
+fpu             : yes
+fpu_exception   : yes
+cpuid level     : 22
+wp              : yes
+flags           : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic movbe popcnt aes xsave avx rdrand hypervisor lahf_lm abm 3dnowprefetch invpcid_single pti fsgsbase avx2 invpcid rdseed clflushopt md_clear flush_l1d
+bugs            : cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs itlb_multihit srbds
+bogomips        : 4608.00
+clflush size    : 64
+cache_alignment : 64
+address sizes   : 39 bits physical, 48 bits virtual
+power management:
+
+processor       : 1
+vendor_id       : GenuineIntel
+cpu family      : 6
+model           : 158
+model name      : Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz
+stepping        : 10
+cpu MHz         : 2304.002
+cache size      : 8192 KB
+physical id     : 0
+siblings        : 8
+core id         : 1
+cpu cores       : 8
+apicid          : 1
+initial apicid  : 1
+fpu             : yes
+fpu_exception   : yes
+cpuid level     : 22
+wp              : yes
+flags           : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic movbe popcnt aes xsave avx rdrand hypervisor lahf_lm abm 3dnowprefetch invpcid_single pti fsgsbase avx2 invpcid rdseed clflushopt md_clear flush_l1d
+bugs            : cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs itlb_multihit srbds
+bogomips        : 4608.00
+clflush size    : 64
+cache_alignment : 64
+address sizes   : 39 bits physical, 48 bits virtual
+power management:
+
+processor       : 2
+vendor_id       : GenuineIntel
+cpu family      : 6
+model           : 158
+model name      : Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz
+stepping        : 10
+cpu MHz         : 2304.002
+cache size      : 8192 KB
+physical id     : 0
+siblings        : 8
+core id         : 2
+cpu cores       : 8
+apicid          : 2
+initial apicid  : 2
+fpu             : yes
+fpu_exception   : yes
+cpuid level     : 22
+wp              : yes
+flags           : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic movbe popcnt aes xsave avx rdrand hypervisor lahf_lm abm 3dnowprefetch invpcid_single pti fsgsbase avx2 invpcid rdseed clflushopt md_clear flush_l1d
+bugs            : cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs itlb_multihit srbds
+bogomips        : 4608.00
+clflush size    : 64
+cache_alignment : 64
+address sizes   : 39 bits physical, 48 bits virtual
+power management:
+
+processor       : 3
+vendor_id       : GenuineIntel
+cpu family      : 6
+model           : 158
+model name      : Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz
+stepping        : 10
+cpu MHz         : 2304.002
+cache size      : 8192 KB
+physical id     : 0
+siblings        : 8
+core id         : 3
+cpu cores       : 8
+apicid          : 3
+initial apicid  : 3
+fpu             : yes
+fpu_exception   : yes
+cpuid level     : 22
+wp              : yes
+flags           : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic movbe popcnt aes xsave avx rdrand hypervisor lahf_lm abm 3dnowprefetch invpcid_single pti fsgsbase avx2 invpcid rdseed clflushopt md_clear flush_l1d
+bugs            : cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs itlb_multihit srbds
+bogomips        : 4608.00
+clflush size    : 64
+cache_alignment : 64
+address sizes   : 39 bits physical, 48 bits virtual
+power management:
+
+processor       : 4
+vendor_id       : GenuineIntel
+cpu family      : 6
+model           : 158
+model name      : Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz
+stepping        : 10
+cpu MHz         : 2304.002
+cache size      : 8192 KB
+physical id     : 0
+siblings        : 8
+core id         : 4
+cpu cores       : 8
+apicid          : 4
+initial apicid  : 4
+fpu             : yes
+fpu_exception   : yes
+cpuid level     : 22
+wp              : yes
+flags           : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic movbe popcnt aes xsave avx rdrand hypervisor lahf_lm abm 3dnowprefetch invpcid_single pti fsgsbase avx2 invpcid rdseed clflushopt md_clear flush_l1d
+bugs            : cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs itlb_multihit srbds
+bogomips        : 4608.00
+clflush size    : 64
+cache_alignment : 64
+address sizes   : 39 bits physical, 48 bits virtual
+power management:
+
+processor       : 5
+vendor_id       : GenuineIntel
+cpu family      : 6
+model           : 158
+model name      : Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz
+stepping        : 10
+cpu MHz         : 2304.002
+cache size      : 8192 KB
+physical id     : 0
+siblings        : 8
+core id         : 5
+cpu cores       : 8
+apicid          : 5
+initial apicid  : 5
+fpu             : yes
+fpu_exception   : yes
+cpuid level     : 22
+wp              : yes
+flags           : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic movbe popcnt aes xsave avx rdrand hypervisor lahf_lm abm 3dnowprefetch invpcid_single pti fsgsbase avx2 invpcid rdseed clflushopt md_clear flush_l1d
+bugs            : cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs itlb_multihit srbds
+bogomips        : 4608.00
+clflush size    : 64
+cache_alignment : 64
+address sizes   : 39 bits physical, 48 bits virtual
+power management:
+
+processor       : 6
+vendor_id       : GenuineIntel
+cpu family      : 6
+model           : 158
+model name      : Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz
+stepping        : 10
+cpu MHz         : 2304.002
+cache size      : 8192 KB
+physical id     : 0
+siblings        : 8
+core id         : 6
+cpu cores       : 8
+apicid          : 6
+initial apicid  : 6
+fpu             : yes
+fpu_exception   : yes
+cpuid level     : 22
+wp              : yes
+flags           : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic movbe popcnt aes xsave avx rdrand hypervisor lahf_lm abm 3dnowprefetch invpcid_single pti fsgsbase avx2 invpcid rdseed clflushopt md_clear flush_l1d
+bugs            : cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs itlb_multihit srbds
+bogomips        : 4608.00
+clflush size    : 64
+cache_alignment : 64
+address sizes   : 39 bits physical, 48 bits virtual
+power management:
+
+processor       : 7
+vendor_id       : GenuineIntel
+cpu family      : 6
+model           : 158
+model name      : Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz
+stepping        : 10
+cpu MHz         : 2304.002
+cache size      : 8192 KB
+physical id     : 0
+siblings        : 8
+core id         : 7
+cpu cores       : 8
+apicid          : 7
+initial apicid  : 7
+fpu             : yes
+fpu_exception   : yes
+cpuid level     : 22
+wp              : yes
+flags           : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic movbe popcnt aes xsave avx rdrand hypervisor lahf_lm abm 3dnowprefetch invpcid_single pti fsgsbase avx2 invpcid rdseed clflushopt md_clear flush_l1d
+bugs            : cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs itlb_multihit srbds
+bogomips        : 4608.00
+clflush size    : 64
+cache_alignment : 64
+address sizes   : 39 bits physical, 48 bits virtual
+power management:
+
+MemTotal:        6087620 kB
+MemFree:         2988236 kB
+MemAvailable:    4331036 kB
+Buffers:          139292 kB
+Cached:          1337848 kB
+SwapCached:            0 kB
+Active:          1793980 kB
+Inactive:         900556 kB
+Active(anon):    1220528 kB
+Inactive(anon):    14364 kB
+Active(file):     573452 kB
+Inactive(file):   886192 kB
+Unevictable:          16 kB
+Mlocked:              16 kB
+SwapTotal:       2097148 kB
+SwapFree:        2097148 kB
+Dirty:               152 kB
+Writeback:             0 kB
+AnonPages:       1217476 kB
+Mapped:           480028 kB
+Shmem:             28776 kB
+KReclaimable:     178776 kB
+Slab:             310552 kB
+SReclaimable:     178776 kB
+SUnreclaim:       131776 kB
+KernelStack:       11520 kB
+PageTables:        18988 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5140956 kB
+Committed_AS:    6450924 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:       38860 kB
+VmallocChunk:          0 kB
+Percpu:             6688 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:         0 kB
+ShmemHugePages:        0 kB
+ShmemPmdMapped:        0 kB
+FileHugePages:         0 kB
+FilePmdMapped:         0 kB
+CmaTotal:              0 kB
+CmaFree:               0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+Hugetlb:               0 kB
+DirectMap4k:      260032 kB
+DirectMap2M:     6031360 kB
+
+
+uptime: 02:03:23 up 7 min,  1 user,  load average: 0.34, 1.09, 0.72
+
+services information:
+ [ + ]  acpid
+ [ - ]  alsa-utils
+ [ - ]  anacron
+ [ + ]  apparmor
+ [ + ]  apport
+ [ + ]  avahi-daemon
+ [ + ]  binfmt-support
+ [ - ]  bluetooth
+ [ - ]  cgroupfs-mount
+ [ - ]  console-setup.sh
+ [ + ]  cron
+ [ + ]  cups
+ [ + ]  cups-browsed
+ [ + ]  dbus
+ [ + ]  gdm3
+ [ + ]  grub-common
+ [ - ]  hwclock.sh
+ [ + ]  irqbalance
+ [ + ]  kerneloops
+ [ - ]  keyboard-setup.sh
+ [ + ]  kmod
+ [ + ]  network-manager
+ [ - ]  open-vm-tools
+ [ + ]  openbsd-inetd
+ [ + ]  openvpn
+ [ - ]  plymouth
+ [ - ]  plymouth-log
+ [ - ]  pppd-dns
+ [ + ]  procps
+ [ - ]  pulseaudio-enable-autospawn
+ [ + ]  resolvconf
+ [ - ]  rsync
+ [ + ]  rsyslog
+ [ - ]  saned
+ [ - ]  speech-dispatcher
+ [ - ]  spice-vdagent
+ [ + ]  ssh
+ [ + ]  sysstat
+ [ + ]  ubuntu-fan
+ [ + ]  udev
+ [ + ]  ufw
+ [ + ]  unattended-upgrades
+ [ - ]  uuidd
+ [ + ]  virtualbox-guest-utils
+ [ + ]  vsftpd
+ [ - ]  whoopsie
+ [ - ]  x11-common
+
+nic information:
+br-d7df2a323e1c: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 10.9.0.1  netmask 255.255.255.0  broadcast 10.9.0.255
+        inet6 fe80::42:31ff:fec8:f4df  prefixlen 64  scopeid 0x20<link>
+        ether 02:42:31:c8:f4:df  txqueuelen 0  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 61  bytes 6829 (6.8 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+docker0: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
+        inet 172.17.0.1  netmask 255.255.0.0  broadcast 172.17.255.255
+        ether 02:42:3d:28:b7:12  txqueuelen 0  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 0  bytes 0 (0.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+enp0s8: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 10.0.3.15  netmask 255.255.255.0  broadcast 10.0.3.255
+        inet6 fe80::6cc7:a18f:e559:bacb  prefixlen 64  scopeid 0x20<link>
+        ether 08:00:27:7a:95:31  txqueuelen 1000  (Ethernet)
+        RX packets 269  bytes 233270 (233.2 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 536  bytes 52053 (52.0 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+enp0s9: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 10.0.4.15  netmask 255.255.255.0  broadcast 10.0.4.255
+        inet6 fe80::e9ca:2b46:5c14:1924  prefixlen 64  scopeid 0x20<link>
+        ether 08:00:27:84:a6:e2  txqueuelen 1000  (Ethernet)
+        RX packets 9  bytes 1212 (1.2 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 84  bytes 8573 (8.5 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 702  bytes 57961 (57.9 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 702  bytes 57961 (57.9 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+vethcd393e2: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet6 fe80::a0c3:66ff:fea9:bf88  prefixlen 64  scopeid 0x20<link>
+        ether a2:c3:66:a9:bf:88  txqueuelen 0  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 99  bytes 11045 (11.0 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+route information:
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags   MSS Window  irtt Iface
+0.0.0.0         10.0.3.2        0.0.0.0         UG        0 0          0 enp0s8
+0.0.0.0         10.0.4.2        0.0.0.0         UG        0 0          0 enp0s9
+10.0.3.0        0.0.0.0         255.255.255.0   U         0 0          0 enp0s8
+10.0.4.0        0.0.0.0         255.255.255.0   U         0 0          0 enp0s9
+10.9.0.0        0.0.0.0         255.255.255.0   U         0 0          0 br-d7df2a323e1c
+169.254.0.0     0.0.0.0         255.255.0.0     U         0 0          0 enp0s8
+172.17.0.0      0.0.0.0         255.255.0.0     U         0 0          0 docker0
+
+
+arp information:
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.0.3.2                 ether   52:54:00:12:35:02   C                     enp0s8
+10.0.4.2                 ether   52:54:00:12:35:02   C                     enp0s9
+
+information of processes
+    PID TTY          TIME CMD
+      1 ?        00:00:02 systemd
+      2 ?        00:00:00 kthreadd
+      3 ?        00:00:00 rcu_gp
+      4 ?        00:00:00 rcu_par_gp
+      6 ?        00:00:00 kworker/0:0H-kblockd
+      8 ?        00:00:00 kworker/u16:0-events_power_efficient
+      9 ?        00:00:00 mm_percpu_wq
+     10 ?        00:00:00 ksoftirqd/0
+     11 ?        00:00:00 rcu_sched
+     12 ?        00:00:00 migration/0
+     13 ?        00:00:00 idle_inject/0
+     14 ?        00:00:00 cpuhp/0
+     15 ?        00:00:00 cpuhp/1
+     16 ?        00:00:00 idle_inject/1
+     17 ?        00:00:00 migration/1
+     18 ?        00:00:00 ksoftirqd/1
+     20 ?        00:00:00 kworker/1:0H-kblockd
+     21 ?        00:00:00 cpuhp/2
+     22 ?        00:00:00 idle_inject/2
+     23 ?        00:00:00 migration/2
+     24 ?        00:00:00 ksoftirqd/2
+     26 ?        00:00:00 kworker/2:0H
+     27 ?        00:00:00 cpuhp/3
+     28 ?        00:00:00 idle_inject/3
+     29 ?        00:00:00 migration/3
+     30 ?        00:00:00 ksoftirqd/3
+     32 ?        00:00:00 kworker/3:0H-kblockd
+     33 ?        00:00:00 cpuhp/4
+     34 ?        00:00:00 idle_inject/4
+     35 ?        00:00:00 migration/4
+     36 ?        00:00:00 ksoftirqd/4
+     38 ?        00:00:00 kworker/4:0H-kblockd
+     39 ?        00:00:00 cpuhp/5
+     40 ?        00:00:00 idle_inject/5
+     41 ?        00:00:00 migration/5
+     42 ?        00:00:00 ksoftirqd/5
+     44 ?        00:00:00 kworker/5:0H-kblockd
+     45 ?        00:00:00 cpuhp/6
+     46 ?        00:00:00 idle_inject/6
+     47 ?        00:00:00 migration/6
+     48 ?        00:00:00 ksoftirqd/6
+     50 ?        00:00:00 kworker/6:0H-kblockd
+     51 ?        00:00:00 cpuhp/7
+     52 ?        00:00:00 idle_inject/7
+     53 ?        00:00:00 migration/7
+     54 ?        00:00:00 ksoftirqd/7
+     56 ?        00:00:00 kworker/7:0H-kblockd
+     57 ?        00:00:00 kdevtmpfs
+     58 ?        00:00:00 netns
+     59 ?        00:00:00 rcu_tasks_kthre
+     60 ?        00:00:00 kauditd
+     61 ?        00:00:00 khungtaskd
+     62 ?        00:00:00 oom_reaper
+     63 ?        00:00:00 writeback
+     64 ?        00:00:00 kcompactd0
+     65 ?        00:00:00 ksmd
+     66 ?        00:00:00 khugepaged
+    113 ?        00:00:00 kintegrityd
+    114 ?        00:00:00 kblockd
+    115 ?        00:00:00 blkcg_punt_bio
+    116 ?        00:00:00 tpm_dev_wq
+    117 ?        00:00:00 ata_sff
+    118 ?        00:00:00 md
+    119 ?        00:00:00 edac-poller
+    120 ?        00:00:00 devfreq_wq
+    121 ?        00:00:00 watchdogd
+    122 ?        00:00:00 kworker/5:1-mm_percpu_wq
+    123 ?        00:00:00 kworker/1:1-cgroup_destroy
+    126 ?        00:00:00 kswapd0
+    127 ?        00:00:00 ecryptfs-kthrea
+    129 ?        00:00:00 kthrotld
+    130 ?        00:00:00 acpi_thermal_pm
+    131 ?        00:00:00 scsi_eh_0
+    132 ?        00:00:00 scsi_tmf_0
+    133 ?        00:00:00 scsi_eh_1
+    134 ?        00:00:00 scsi_tmf_1
+    136 ?        00:00:00 vfio-irqfd-clea
+    137 ?        00:00:00 kworker/u16:3-events_power_efficient
+    138 ?        00:00:00 kworker/2:1-events
+    139 ?        00:00:00 ipv6_addrconf
+    148 ?        00:00:00 kstrp
+    151 ?        00:00:00 kworker/u17:0
+    164 ?        00:00:00 charger_manager
+    166 ?        00:00:00 kworker/6:1-events
+    180 ?        00:00:00 kworker/4:1-events
+    182 ?        00:00:00 kworker/7:1-events
+    216 ?        00:00:00 kworker/1:2-ata_sff
+    222 ?        00:00:00 kworker/0:2-cgroup_destroy
+    223 ?        00:00:00 scsi_eh_2
+    224 ?        00:00:00 scsi_tmf_2
+    227 ?        00:00:00 kworker/0:1H-kblockd
+    228 ?        00:00:00 kworker/0:3-events
+    230 ?        00:00:00 kworker/3:2-cgroup_destroy
+    248 ?        00:00:00 kworker/5:1H-kblockd
+    249 ?        00:00:00 kworker/4:1H-kblockd
+    251 ?        00:00:00 kworker/6:1H-kblockd
+    252 ?        00:00:00 jbd2/sda5-8
+    253 ?        00:00:00 ext4-rsv-conver
+    262 ?        00:00:00 kworker/3:1H-kblockd
+    266 ?        00:00:00 kworker/4:2-events
+    286 ?        00:00:00 kworker/7:1H-kblockd
+    288 ?        00:00:00 kworker/1:1H-kblockd
+    290 ?        00:00:00 kworker/2:1H-kblockd
+    297 ?        00:00:00 systemd-journal
+    315 ?        00:00:00 kworker/6:2-mm_percpu_wq
+    325 ?        00:00:00 kworker/5:2-events
+    327 ?        00:00:00 irq/18-vmwgfx
+    328 ?        00:00:00 ttm_swap
+    336 ?        00:00:00 loop0
+    337 ?        00:00:00 loop1
+    339 ?        00:00:00 loop2
+    341 ?        00:00:00 loop3
+    343 ?        00:00:00 loop4
+    345 ?        00:00:00 loop5
+    347 ?        00:00:00 loop6
+    349 ?        00:00:00 loop7
+    351 ?        00:00:00 loop8
+    355 ?        00:00:00 loop9
+    358 ?        00:00:00 loop10
+    359 ?        00:00:00 loop11
+    361 ?        00:00:01 systemd-udevd
+    362 ?        00:00:00 loop12
+    363 ?        00:00:00 loop13
+    364 ?        00:00:00 loop14
+    412 ?        00:00:00 iprt-VBoxWQueue
+    494 ?        00:00:00 cryptd
+    625 ?        00:00:00 kworker/2:3-cgroup_destroy
+    643 ?        00:00:00 systemd-resolve
+    644 ?        00:00:00 systemd-timesyn
+    672 ?        00:00:00 accounts-daemon
+    673 ?        00:00:00 acpid
+    676 ?        00:00:00 avahi-daemon
+    677 ?        00:00:00 cron
+    679 ?        00:00:01 dbus-daemon
+    680 ?        00:00:00 NetworkManager
+    687 ?        00:00:00 irqbalance
+    688 ?        00:00:00 networkd-dispat
+    689 ?        00:00:01 polkitd
+    691 ?        00:00:00 rsyslogd
+    693 ?        00:00:02 snapd
+    694 ?        00:00:00 switcheroo-cont
+    699 ?        00:00:00 systemd-logind
+    701 ?        00:00:00 udisksd
+    704 ?        00:00:00 wpa_supplicant
+    724 ?        00:00:00 avahi-daemon
+    812 ?        00:00:00 cupsd
+    826 ?        00:00:00 cups-browsed
+    860 ?        00:00:00 VBoxService
+    870 ?        00:00:00 ModemManager
+    886 ?        00:00:00 unattended-upgr
+    888 ?        00:00:01 containerd
+    889 ?        00:00:00 vsftpd
+    903 ?        00:00:00 sshd
+    925 ?        00:00:01 dockerd
+    929 ?        00:00:00 inetd
+    934 ?        00:00:00 kerneloops
+    954 ?        00:00:00 kerneloops
+   1362 ?        00:00:00 none
+   1776 ?        00:00:00 containerd-shim
+   1797 pts/0    00:00:04 mysqld
+   2100 ?        00:00:00 gdm3
+   2126 ?        00:00:00 rtkit-daemon
+   2227 ?        00:00:00 upowerd
+   2511 ?        00:00:00 colord
+   2541 ?        00:00:00 kworker/7:3-events
+   2548 ?        00:00:00 gdm-session-wor
+   2564 ?        00:00:00 systemd
+   2571 ?        00:00:00 (sd-pam)
+   2579 ?        00:00:00 pulseaudio
+   2581 ?        00:00:27 tracker-miner-f
+   2583 ?        00:00:00 dbus-daemon
+   2588 ?        00:00:00 gvfsd
+   2593 ?        00:00:00 gvfsd-fuse
+   2612 ?        00:00:00 gvfs-udisks2-vo
+   2619 ?        00:00:00 gvfs-afc-volume
+   2624 ?        00:00:00 gvfs-gphoto2-vo
+   2628 ?        00:00:00 gvfs-goa-volume
+   2632 ?        00:00:00 goa-daemon
+   2634 ?        00:00:00 gnome-keyring-d
+   2645 ?        00:00:00 goa-identity-se
+   2650 ?        00:00:00 gvfs-mtp-volume
+   2658 tty2     00:00:00 gdm-x-session
+   2660 tty2     00:00:12 Xorg
+   2678 tty2     00:00:00 gnome-session-b
+   2749 ?        00:00:00 VBoxClient
+   2751 ?        00:00:00 VBoxClient
+   2759 ?        00:00:00 VBoxClient
+   2761 ?        00:00:00 VBoxClient
+   2765 ?        00:00:00 VBoxClient
+   2766 ?        00:00:00 VBoxClient
+   2769 ?        00:00:00 VBoxClient
+   2771 ?        00:00:00 VBoxClient
+   2784 ?        00:00:00 ssh-agent
+   2803 ?        00:00:00 at-spi-bus-laun
+   2808 ?        00:00:00 dbus-daemon
+   2812 ?        00:00:00 gnome-session-c
+   2819 ?        00:00:00 gnome-session-b
+   2833 ?        00:00:22 gnome-shell
+   2860 ?        00:00:00 ibus-daemon
+   2864 ?        00:00:00 ibus-memconf
+   2865 ?        00:00:01 ibus-extension-
+   2869 ?        00:00:00 ibus-x11
+   2872 ?        00:00:00 ibus-portal
+   2881 ?        00:00:00 at-spi2-registr
+   2885 ?        00:00:00 gnome-shell-cal
+   2886 ?        00:00:00 xdg-permission-
+   2894 ?        00:00:00 dconf-service
+   2902 ?        00:00:00 evolution-sourc
+   2906 ?        00:00:00 gjs
+   2921 ?        00:00:00 gsd-a11y-settin
+   2922 ?        00:00:00 gsd-color
+   2923 ?        00:00:00 gsd-datetime
+   2925 ?        00:00:00 gsd-housekeepin
+   2928 ?        00:00:00 gsd-keyboard
+   2930 ?        00:00:00 gsd-media-keys
+   2932 ?        00:00:00 gsd-power
+   2933 ?        00:00:00 gsd-print-notif
+   2935 ?        00:00:00 gsd-rfkill
+   2938 ?        00:00:00 gsd-screensaver
+   2940 ?        00:00:00 gsd-sharing
+   2941 ?        00:00:00 gsd-smartcard
+   2942 ?        00:00:00 gsd-sound
+   2943 ?        00:00:00 gsd-usb-protect
+   2944 ?        00:00:00 gsd-wacom
+   2946 ?        00:00:00 gsd-wwan
+   2948 ?        00:00:00 gsd-xsettings
+   2966 ?        00:00:00 evolution-alarm
+   2988 ?        00:00:00 ibus-engine-sim
+   3000 ?        00:00:00 gsd-disk-utilit
+   3059 ?        00:00:00 gsd-printer
+   3089 ?        00:00:00 gvfsd-trash
+   3142 ?        00:00:00 evolution-calen
+   3145 ?        00:00:00 gvfsd-metadata
+   3174 ?        00:00:00 evolution-addre
+   3240 ?        00:00:00 kworker/3:4-events
+   3262 ?        00:00:00 update-notifier
+   3341 ?        00:00:00 gnome-terminal-
+   3352 pts/0    00:00:00 bash
+   3393 ?        00:00:11 code
+   3397 ?        00:00:00 code
+   3399 ?        00:00:00 code
+   3403 ?        00:00:00 code
+   3431 ?        00:00:14 code
+   3436 ?        00:00:00 code
+   3446 ?        00:00:00 code
+   3456 ?        00:00:52 code
+   3495 ?        00:00:03 code
+   3507 ?        00:00:03 code
+   3528 ?        00:00:00 code
+   3540 ?        00:00:00 code
+   3557 ?        00:00:00 code
+   3581 pts/1    00:00:00 bash
+   3989 ?        00:00:00 kworker/u16:1-events_unbound
+   4432 pts/1    00:00:00 ps
